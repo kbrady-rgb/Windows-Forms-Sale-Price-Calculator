@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.salePriceCalculator.resources
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\bin\Debug\BradySalePriceCalculator.exe.config
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\bin\Debug\BradySalePriceCalculator.exe
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\bin\Debug\BradySalePriceCalculator.pdb
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.exe
+C:\Users\Kabrina\Documents\C#\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\bin\Debug\BradySalePriceCalculator.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\bin\Debug\BradySalePriceCalculator.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\bin\Debug\BradySalePriceCalculator.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.salePriceCalculator.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradySalePriceCalculator\BradySalePriceCalculator\obj\Debug\BradySalePriceCalculator.pdb
